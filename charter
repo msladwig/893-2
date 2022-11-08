@@ -1,14 +1,27 @@
 1. Availability for meeting expectations
+Monday/Wednesday/Friday after 5:30 for extended meetings, otherwise plan on meeting after class Tuesday/Thursday
 
 2. Response time to communication expectations
 Group members should be available to respons to communications in a reasonable timeframe, including:
-Within approximately 4 hours on a weekday.
-Within approximately 8 hours on a weekend.
+Within approximately 6 hours on a weekday.
+Within approximately 12 hours on a weekend.
 
 3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+Tasdk is complete, code is checked into github and code is reviewed by 2 or more group members.
+
 4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
-5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates) 
+Daily chat check-in for stnadup related issues (i.e. what are you working on, what are you struggling with)
+More extended meetings will be done wither after class Tu/Th or after 5:30 MWF, as needed.
+
+5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
  a. if you adopt such a policy during the initial meeting, put it here
+ Policy is presented at a meeting, simple majority for adoption.
+ 
 6. Procedure for handling a member who is not meeting expectations
  a. must include at least 3 actions before involving the instructor
+ 1. 1 on 1 discussion with group memener.
+ 2. Group intervention with member.
+ 3. Discusioon with group and TA (scrum master).
+
 7 Signatures: each member must sign their name by typing their name at the bottom of the document.
+Mitchell Ladwig
